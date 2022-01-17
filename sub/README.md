@@ -11,4 +11,4 @@ Working tree
 - banco de dados dos nossos arquivos
 - onde ficarão os poontos da história
 - ou o histórico
-
+hora de mudar essa porra tbm
