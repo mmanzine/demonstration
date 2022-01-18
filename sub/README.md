@@ -9,6 +9,7 @@ Working tree
 # Repository (local)
 
 - banco de dados dos nossos arquivos
-- onde ficarão os poontos da história
+- onde ficarão os pontos da história
 - ou o histórico
-hora de mudar essa porra tbm
+- não sei qq ta conteceno aqui socoro
+
